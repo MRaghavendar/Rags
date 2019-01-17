@@ -23,7 +23,7 @@ Maddelavedu Raghavendar Reddy
 - Watching Movies
 
 ## IMAGE
-![Dogs](https://github.com/MRaghavendar/working-with-markdown/blob/master/102318-dogs-color-determine-disesases-life.jpg "Dogs Image")
+![Dogs](https://static1.squarespace.com/static/50fb11f8e4b0dcfb3cb26d52/50fb11f8e4b0dcfb3cb26d59/5642d535e4b0d7ba4d6a283c/1545361641295/commercial_dog_photo.jpg "Dogs Image")
 
 ## Source File
 ```
