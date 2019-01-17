@@ -3,14 +3,14 @@
 Maddelavedu Raghavendar Reddy
 - DOB : 02/10/1996
 - Born in INDIA
-- Phone Number : (660)28-1013
+- Phone Number : (660)528-1013
 
 ##LINKS
-- [Gethub](https://mraghavendar.github.io/Rags/)
+- [Github](https://mraghavendar.github.io/Rags/)
 - [Source](https://mraghavendar.github.io/Rags "Source")
 
 ## My Undergraduation
-- Done in Sri Indu college Of Engineering And Technolgy
+- Done in Sri Indu College Of Engineering And Technolgy
 - MY Major is Electronic And Communication Engineering
 - Passed out In 2018
 
